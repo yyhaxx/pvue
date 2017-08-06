@@ -1,0 +1,20 @@
+{
+  "name": "pvue",
+  "version": "1.0.4",
+  "description": "vue is the best framework in the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cht8687/pvue.git"
+  },
+  "keywords": [
+    "vue",
+    "react",
+    "angular"
+  ],
+  "author": "cht8687",
+  "license": "MIT"
+}
